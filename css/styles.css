@@ -1,0 +1,190 @@
+body
+{
+    font-family: 'Merriweather', serif;
+
+    margin: 0;
+
+    text-align: center;
+
+    background-color: #8E806A;
+}
+
+h1
+{
+    font-family: 'Sacramento', cursive;
+    font-size: 560%;
+    color: #C3B091;
+    height: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #F5F5F5;
+    margin-bottom: 5px;
+}
+
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+p
+{
+    color: #F5F5F5;
+    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+hr
+{
+    margin: 20px auto;
+    width: 10%;
+    border-radius: 0px;
+    border-bottom:5px dotted;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    color: #FFF4CF
+}
+
+.top
+{
+    position: relative;
+    margin: 0;
+    padding-top: 100px;
+    height: 100vh;
+    box-sizing: border-box;
+
+    background-color: #8E806A;
+}
+
+.profile
+{
+    background-color: #191919;
+}
+
+.top-cloud
+{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.bottom-cloud
+{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.mountain
+{
+    margin: 0;
+    height: 460px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.pro-pic
+{
+    border-radius: 100px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.programmer
+{
+    margin-top: 0px;
+    color: #FFE6BC;
+    font-size: 25px;
+
+}
+.skill-row
+{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+.middle-container
+{
+    background-color: #8E806A;
+}
+
+.bottom-container
+{
+    background-color: #191919;
+    padding-top: 20px;
+    padding-bottom: 2px;
+}
+.copy-right
+{
+    display: block;
+    width: 50%
+    margin: 20px auto 10px auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+}
+.ball
+{
+    height: 200px;
+    float: left;
+    margin-right: 10px;
+}
+.puzzle
+{
+    height: 150px;
+    float: right;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+.contact-me
+{
+    width: 50%;
+    margin: 0px auto;
+}
+.last-hr
+{
+    margin-bottom: 20px;
+}
+.mid-hr
+{
+    width: 100%;
+}
+#hello-txt
+{
+    font-size: 150%;
+    margin: 10px auto 10px auto;
+    width: 50%;
+}
+
+.footer-link
+{
+    color: #F5F5F5;
+    display: block;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.footer-link:hover
+{
+    color: #F14A16;
+}
+li
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: #F5F5F5;
+  margin: 10px auto;
+  width: 50%;
+}
+
+.second
+{
+    text-align: right;
+}
